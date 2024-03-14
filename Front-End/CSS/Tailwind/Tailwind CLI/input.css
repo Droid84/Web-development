@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    h1 {
+      @apply text-xl bg-slate-600;
+    }
+  }
+
+@layer components {
+    .menu-btn{
+        @apply bg-orange-500 m-5 p-5;
+    }
+}
