@@ -1,0 +1,10 @@
+{
+    "version": 1.0,
+    "atDirectives": [
+      {
+        "name": "@tailwind",
+        "description": "use the @tailwind directive to insert tailwind base , components , utilities and screen style to your css"
+        
+      }
+    ]
+  }
